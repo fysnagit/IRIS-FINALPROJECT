@@ -1,0 +1,5 @@
+<launch>
+    <node name="kamera" pkg="finalpro" type="kamera" output= "screen" respawn="true"/>  
+    <node name="pc" pkg="finalpro" type="pc" output="screen" respawn="true" />
+    <node name="motor" pkg="finalpro" type="motor" output="screen" respawn="true" />
+</launch>

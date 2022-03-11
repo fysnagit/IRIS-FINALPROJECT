@@ -1,0 +1,2 @@
+finalpro
+-DCATKIN_DEVEL_PREFIX=/home/fysna/ROS/FP/devel -DCMAKE_INSTALL_PREFIX=/home/fysna/ROS/FP/install -G Unix Makefiles
